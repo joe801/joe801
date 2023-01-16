@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Everything.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail: joecrypt@yahoo.com Whatsapp: +2348140711931
-- 🚪 Check out my website [here](https://www.joecrypt.tk/)
+- 🚪 Check out my website [here](https://www.joecrypt.ml/)
 
 <!---
 joe801/joe801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
