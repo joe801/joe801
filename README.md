@@ -4,18 +4,18 @@ joe801/joe801 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, Frontend Developer here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Hi there, Software Engineer here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
 
 <hr>
 <h1>My name is Joseph Uwagbale <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I am a Frontend Developer, and very passionate about tech 😉.
+I am a Software Engineer, and very passionate about tech 😉.
 
 
 
-- 🌱 I’m currently learning: Everything
-- 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
+- 🌱 I’m currently learning: React Native.
+- 👯 I’m looking to collaborate on: Anything and Everything.
 - 😊 Pronouns: he/him
 - 📫 How to reach me ... mail: joecrypt@yahoo.com Whatsapp: +2348140711931
 - 🚪 Check out my website [here](https://joecrypt.netlify.app/)
